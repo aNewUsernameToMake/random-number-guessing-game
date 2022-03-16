@@ -1,4 +1,5 @@
 import random
+import time
 
 hidden_num = random.randint(1, 100)
 tries = 7
@@ -28,3 +29,5 @@ if user == hidden_num:
         print(f"Congrats, you win with {tries} tries left.")
 else:
     print("You lose. The number was {}".format(hidden_num))
+
+time.sleep(6)

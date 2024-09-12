@@ -1,2 +1,2 @@
 # random-number-guessing-game
-a very good project for beginners, made changes as u want.
+a perfect project for beginners, make changes as you want.
